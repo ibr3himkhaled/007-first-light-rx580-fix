@@ -1,43 +1,3 @@
----
-
-## ❤️ Support My Work
-
-Hi, I'm **Ibrahim Khaled**, an independent developer
-creating compatibility fixes for modern games on
-older AMD graphics cards.
-
-Developing these fixes involves extensive reverse
-engineering, shader analysis, debugging, and testing.
-
-If my work has helped you enjoy a game that wouldn't
-otherwise run on your hardware, please consider
-supporting my future projects.
-
-### ☕ Support Development
-
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ibr3himkhaled)
-
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/ibr3himkhaled)
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ibr3himkhap)
-
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/IbrahimKhaled011)
-
-### 💙 Every Contribution Matters
-
-All donations are completely optional.
-
-My compatibility fixes remain **free and publicly
-available**. Your support helps me continue researching,
-developing, and improving compatibility solutions
-for older GPUs.
-
-Thank you for supporting independent development!
-
-**— Ibrahim Khaled**
-
----
-
 <div align="center">
 
 # 007 First Light
@@ -52,9 +12,10 @@ Thank you for supporting independent development!
 
 **Developed and tested on the AMD Radeon RX 580 8GB.**
 
-[Download Latest Release](../../releases/latest) ·
-[Report an Issue](../../issues) ·
-[View All Releases](../../releases)
+[Download Latest Release](https://github.com/ibr3himkhaled/007-first-light-rx580-fix/releases/latest) ·
+[Report an Issue](https://github.com/ibr3himkhaled/007-first-light-rx580-fix/issues) ·
+[View All Releases](https://github.com/ibr3himkhaled/007-first-light-rx580-fix/releases) ·
+[Support Development](#-support-my-work)
 
 </div>
 
@@ -178,7 +139,7 @@ The compatibility fix was developed and tested using the following configuration
 
 ### Step 1 — Download
 
-Visit the official [Releases](../../releases) page.
+Visit the official [Releases](https://github.com/ibr3himkhaled/007-first-light-rx580-fix/releases) page.
 
 Download the compatibility package that matches your installed game version.
 
@@ -254,7 +215,7 @@ Future updates may include additional compatibility improvements, performance op
 
 ## Bug Reports
 
-If you encounter crashes, startup failures, graphical issues, or other compatibility problems, please open a [GitHub Issue](../../issues).
+If you encounter crashes, startup failures, graphical issues, or other compatibility problems, please open a [GitHub Issue](https://github.com/ibr3himkhaled/007-first-light-rx580-fix/issues).
 
 Include the following information:
 
@@ -268,6 +229,33 @@ Include the following information:
 8. Relevant screenshots or logs.
 
 Please check existing issues before submitting a new report.
+
+---
+
+## ❤️ Support My Work
+
+Hi, I'm **Ibrahim Khaled**, an independent developer creating compatibility fixes for modern games on older AMD graphics cards.
+
+Developing these fixes involves extensive reverse engineering, shader analysis, debugging, and testing.
+
+If my work has helped you enjoy a game that wouldn't otherwise run on your hardware, please consider supporting my future projects.
+
+### ☕ Support Development
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ibr3himkhaled)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/ibr3himkhaled)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ibr3himkhap)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/IbrahimKhaled011)
+
+### 💙 Every Contribution Matters
+
+All donations are completely optional.
+
+My compatibility fixes remain **free and publicly available**. Your support helps me continue researching, developing, and improving compatibility solutions for older GPUs.
+
+Thank you for supporting independent development!
+
+**— Ibrahim Khaled**
 
 ---
 
