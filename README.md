@@ -55,7 +55,7 @@ The project provides separate compatibility fixes for the following versions:
 |:---|:---:|
 | 1.1.0 | Yes |
 | 1.1.1 | Yes |
-| Other versions | Not verified |
+| Other versions | Not Yet |
 
 > [!IMPORTANT]
 > Download the compatibility package that matches your installed game version.
