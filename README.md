@@ -148,7 +148,7 @@ The fix is intended for compatible cards with **4GB or 8GB of VRAM**.
 | Other AMD Radeon RX 400 GPUs | 4GB / 8GB variants targeted |
 | Other AMD Radeon RX 500 GPUs | 4GB / 8GB variants targeted |
 | Other AMD Polaris GPUs | Not fully verified |
-| AMD Vega / RDNA | Not verified |
+| AMD Vega / RDNA | Worked |
 | NVIDIA GPUs | Not verified |
 | Intel GPUs | Not verified |
 
