@@ -1,16 +1,18 @@
 <div align="center">
 
 # 007 First Light
-## AMD Radeon RX 580 Compatibility Fix
+## AMD Radeon RX 400 / RX 500 Compatibility Fix
 
 **A community-developed DirectX 12 compatibility solution for running 007 First Light on AMD Polaris GPUs.**
 
-![GPU](https://img.shields.io/badge/GPU-AMD_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![GPU](https://img.shields.io/badge/GPU-AMD_RX_400_%2F_500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![API](https://img.shields.io/badge/API-DirectX_12_%2F_Vulkan-0078D6?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Working-28A745?style=for-the-badge)
 
 **Developed and tested on the AMD Radeon RX 580 8GB.**
+
+Designed for compatible AMD Radeon RX 400 and RX 500 series graphics cards with 4GB or 8GB of VRAM.
 
 [Download Latest Release](https://github.com/ibr3himkhaled/007-first-light-rx580-fix/releases/latest) ·
 [Download Fix](https://stly.link/007firstlight) ·
@@ -47,21 +49,25 @@ Your support helps me continue researching, developing, and improving compatibil
 
 ## Overview
 
-This project provides a custom compatibility fix that enables **007 First Light** to run on the AMD Radeon RX 580.
+This project provides a custom compatibility fix that enables **007 First Light** to run on compatible AMD Radeon RX 400 and RX 500 series graphics cards, including models with **4GB and 8GB of VRAM**.
 
 The fix addresses DirectX 12 compatibility limitations, shader model requirements, and graphics pipeline issues that prevent the game from running correctly on older AMD Polaris hardware.
 
 The solution was developed through extensive experimentation with DirectX 12, Vulkan, VKD3D-Proton, custom compatibility components, and GPU feature reporting.
 
-After multiple development iterations, I successfully developed a working Windows compatibility fix for the RX 580.
+After multiple development iterations, I successfully developed a working Windows compatibility fix, with the AMD Radeon RX 580 8GB serving as the primary development and testing GPU.
 
 **The game can now launch and enter gameplay on the tested hardware.**
+
+The fix is intended to extend compatibility to other supported AMD Radeon RX 400 and RX 500 graphics cards, including compatible 4GB and 8GB variants. Results may vary depending on the GPU model, driver version, and installed game version.
 
 ---
 
 ## Features
 
-- Enables 007 First Light to run on the AMD RX 580.
+- Enables 007 First Light to run on compatible AMD Radeon RX 400 and RX 500 GPUs.
+- Targets compatible Polaris graphics cards with 4GB and 8GB of VRAM.
+- Supports playing the game on the tested RX 580 8GB.
 - Addresses DirectX 12 compatibility limitations.
 - Includes custom D3D12 compatibility components.
 - Uses Vulkan translation to improve compatibility with Polaris GPUs.
@@ -92,9 +98,9 @@ The project provides separate compatibility fixes for the following versions:
 
 ## Technical Background
 
-The AMD Radeon RX 580 is based on the Polaris architecture.
+The AMD Radeon RX 400 and RX 500 series include GPUs based on the Polaris architecture.
 
-Running 007 First Light on this GPU presents several compatibility challenges involving modern DirectX 12 features, shader model requirements, and graphics pipeline behavior.
+Running 007 First Light on this hardware presents several compatibility challenges involving modern DirectX 12 features, shader model requirements, and graphics pipeline behavior.
 
 The development process involved:
 
@@ -110,7 +116,7 @@ The development process involved:
 
 ### Compatibility Architecture
 
-The Windows compatibility solution uses custom DirectX 12 components and a Vulkan translation path to address compatibility limitations on the RX 580.
+The Windows compatibility solution uses custom DirectX 12 components and a Vulkan translation path to address compatibility limitations on AMD Polaris GPUs.
 
 The development process also involved experimenting with GPU feature reporting and the interaction between the game, DirectX 12, and AMD's graphics drivers.
 
@@ -128,21 +134,30 @@ The Windows and Linux implementations are not interchangeable and require platfo
 
 ## GPU Compatibility
 
-The primary development and testing target is the **AMD Radeon RX 580 8GB**.
+This project targets compatible **AMD Radeon RX 400 and RX 500 series GPUs**, particularly those based on the Polaris architecture.
+
+The fix is intended for compatible cards with **4GB or 8GB of VRAM**.
 
 | GPU | Compatibility |
 |:---|:---|
 | AMD Radeon RX 580 8GB | Successfully tested |
-| AMD Radeon RX 570 | Community testing welcome |
-| AMD Radeon RX 480 | Community testing welcome |
-| AMD Radeon RX 470 | Community testing welcome |
+| AMD Radeon RX 580 4GB | Supported target — community testing welcome |
+| AMD Radeon RX 570 | 4GB / 8GB variants targeted |
+| AMD Radeon RX 480 | 4GB / 8GB variants targeted |
+| AMD Radeon RX 470 | 4GB / 8GB variants targeted |
+| Other AMD Radeon RX 400 GPUs | 4GB / 8GB variants targeted |
+| Other AMD Radeon RX 500 GPUs | 4GB / 8GB variants targeted |
 | Other AMD Polaris GPUs | Not fully verified |
 | AMD Vega / RDNA | Not verified |
 | NVIDIA GPUs | Not verified |
 | Intel GPUs | Not verified |
 
 > [!NOTE]
-> Compatibility may vary depending on your GPU model, driver version, operating system, and installed game version.
+> The AMD Radeon RX 580 8GB is the primary development and testing GPU.
+>
+> The compatibility fix is intended to support compatible AMD Radeon RX 400 and RX 500 graphics cards with either 4GB or 8GB of VRAM.
+>
+> Compatibility may vary between individual GPU models, driver versions, and installed game versions. Additional community testing is welcome.
 
 ---
 
@@ -221,6 +236,7 @@ Avoid repeatedly terminating the game during its initial compilation process unl
 ## Known Limitations
 
 - The RX 580 8GB is the primary tested GPU.
+- The fix targets compatible AMD Radeon RX 400 and RX 500 GPUs with 4GB or 8GB of VRAM.
 - Other Polaris models may require additional testing.
 - Compatibility depends on the installed game version.
 - Different AMD driver versions may produce different results.
@@ -236,7 +252,9 @@ Avoid repeatedly terminating the game during its initial compilation process unl
 
 The Windows compatibility fix has been successfully developed and tested on the AMD Radeon RX 580 8GB.
 
-Separate compatibility packages have been developed for game versions 1.1.0 and 1.1.1.
+Separate compatibility packages have been developed for game versions 1.1.0, 1.1.1, and 1.2.2.
+
+The project targets compatible AMD Radeon RX 400 and RX 500 GPUs with both 4GB and 8GB of VRAM.
 
 Future updates may include additional compatibility improvements, performance optimizations, and fixes based on community feedback.
 
