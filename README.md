@@ -52,6 +52,16 @@ Your support means a lot to me and helps make it possible to continue this work.
 
 ---
 
+## 🎮 Explore My Other Game Fixes
+
+Looking for compatibility fixes for other games?
+
+Check out my GitHub repositories to discover more game fixes and compatibility projects.
+
+[**Browse All My Game Fixes on GitHub →**](https://github.com/ibr3himkhaled?tab=repositories)
+
+---
+
 ## Overview
 
 This project provides a custom compatibility fix that enables **007 First Light** to run on compatible AMD Radeon RX 400 and RX 500 series graphics cards, including models with **4GB and 8GB of VRAM**.
