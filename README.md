@@ -301,8 +301,6 @@ This project does not include the game itself. A legitimate copy of the game is 
 
 **Bringing modern games to AMD Polaris hardware.**
 
-[GitHub Profile](https://github.com/ibr3himkhaled) ·
-[Support Development](#-support-my-work)
 
 **The compatibility fix remains free and publicly available. Your financial support helps make continued development possible.**
 
