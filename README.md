@@ -306,5 +306,6 @@ This project does not include the game itself. A legitimate copy of the game is 
 [Support Development](#-support-my-work)
 
 If this project helped you, consider giving it a ⭐!
+**The compatibility fix remains free and publicly available. Your financial support helps make continued development possible.**
 
 </div>
