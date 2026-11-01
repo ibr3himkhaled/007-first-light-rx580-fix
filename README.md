@@ -23,23 +23,35 @@ Designed for compatible AMD Radeon RX 400 and RX 500 series graphics cards with 
 
 ## ❤️ Support My Work
 
-Hi, I'm **Ibrahim Khaled**, an independent developer creating compatibility fixes that help older AMD graphics cards run modern games.
+</div>
 
-Developing these fixes involves extensive reverse engineering, shader analysis, debugging, and testing.
+Hi, I'm **Ibrahim Khaled**, an independent developer from Egypt, creating compatibility fixes that help older AMD graphics cards run modern games.
 
-If this project helped you enjoy a game that wouldn't otherwise run on your hardware, please consider supporting the development of future compatibility fixes.
+Developing these fixes requires a lot of time, effort, research, reverse engineering, shader analysis, debugging, and testing. I work independently and put my own time and resources into making modern games accessible to people using older hardware.
+
+I want to be honest with you. **Life in Egypt has become very difficult financially, and I'm struggling to cover my living expenses while continuing this development work.**
+
+I genuinely love what I do, and I want to continue developing fixes, supporting more games, and helping the community. However, I cannot keep doing this without financial support.
+
+**I genuinely need your help to continue.**
+
+Your contributions will help me with my living expenses and allow me to dedicate more time to researching, developing, and maintaining compatibility fixes for older AMD GPUs.
+
+<div align="center">
 
 ### ☕ Support Development
+
+**Please consider supporting my work through one of the following methods:**
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/ibr3himkhaled)
 
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/IbrahimKhaled011)
 
-**All donations are completely optional. My compatibility fixes remain free and publicly available.**
+**My compatibility fixes will remain free and publicly available.**
 
-Your support helps me continue researching, developing, and improving compatibility solutions for older GPUs.
+Your support means a lot to me and helps make it possible to continue this work.
 
-**Thank you for supporting independent development!**
+**Thank you for your understanding and support! ❤️**
 
 </div>
 
