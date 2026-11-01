@@ -153,10 +153,10 @@ The fix is intended for compatible cards with **4GB or 8GB of VRAM**.
 | AMD Radeon RX 470 | 4GB / 8GB variants targeted |
 | Other AMD Radeon RX 400 GPUs | 4GB / 8GB variants targeted |
 | Other AMD Radeon RX 500 GPUs | 4GB / 8GB variants targeted |
-| Other AMD Polaris GPUs | Not fully verified |
+| Other AMD Polaris GPUs | Not worked |
 | AMD Vega / RDNA | Worked |
-| NVIDIA GPUs | Not verified |
-| Intel GPUs | Not verified |
+| NVIDIA GPUs | Not worked |
+| Intel GPUs | Not worked |
 
 > [!NOTE]
 > The AMD Radeon RX 580 8GB is the primary development and testing GPU.
