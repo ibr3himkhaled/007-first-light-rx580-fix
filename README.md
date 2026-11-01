@@ -92,6 +92,7 @@ The project provides separate compatibility fixes for the following versions:
 | 1.1.0 | Yes |
 | 1.1.1 | Yes |
 | 1.2.2 | Yes |
+| 1.3.1 | Yes |
 | Other versions | Not Yet |
 
 > [!IMPORTANT]
