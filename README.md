@@ -14,11 +14,6 @@
 
 Designed for compatible AMD Radeon RX 400 and RX 500 series graphics cards with 4GB or 8GB of VRAM.
 
-[Download Latest Release](https://github.com/ibr3himkhaled/007-first-light-rx580-fix/releases/latest) ·
-[Download Fix](https://stly.link/007firstlight) ·
-[Report an Issue](https://github.com/ibr3himkhaled/007-first-light-rx580-fix/issues) ·
-[View All Releases](https://github.com/ibr3himkhaled/007-first-light-rx580-fix/releases)
-
 ---
 
 ## ❤️ Support My Work
